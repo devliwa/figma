@@ -23,3 +23,15 @@ Locate and click the "Share" button in the top-right corner of your file.
 
 
 #### What are Teams Porjects drafts in Figma
+
+#### Key differences
+
+- Drafts: A personal, private space for creating and iterating on files without involving the whole team. 
+- Team Projects: A shared workspace within a team where files are organized and accessible to all team members, facilitating collaboration. 
+
+#### How to use them
+
+- Create in drafts: Start new files in your personal drafts space. 
+- Experiment privately: Work on designs, concepts, or wireframes without sharing them until you're ready. 
+- Move to a team project: When a file is complete or ready for feedback, drag and drop it into the appropriate team project to make it accessible to the team. 
+- Share with specific people: You can still share an individual draft with specific people you invite, but moving it to a project is how you make it available to your whole team. 
