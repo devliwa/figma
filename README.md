@@ -1,8 +1,8 @@
 # Figma
 
 - [Section 1: Getting Started](https://github.com/devliwa/Figma/tree/main/Section%201%3A%20Getting%20Started)
-- [Section 2: Wireframing - Low Fidelity]()
-- [Section 3: Type, Color & Icon Introduction]()
+- [Section 2: Wireframing - Low Fidelity](https://github.com/devliwa/Figma/tree/main/Section%202%3A%20Wireframing%20-%20Low%20Fidelity)
+- [Section 3: Type, Color & Icon Introduction](https://github.com/devliwa/Figma/tree/main/Section%203%3A%20Type%2C%20Color%20%26%20Icon%20Introduction)
 - [Section 4: Pages]()
 - [Section 5: Prototyping - Level 1]()
 - [Section 6: Animation Level 1]()
