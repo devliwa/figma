@@ -61,7 +61,10 @@ In Figma, UX design includes:
 💡 Think of UX as the “brain and behavior” of your app — it’s what makes the experience work well.
 
 ### Class project 01 - Create your own brief
-<img width="1123" height="661" alt="Persona Example" src="https://github.com/user-attachments/assets/a773586c-0940-4047-8996-0104b0d0b87c" />
+
+<img width="800" height="884" alt="ux-ui" src="https://github.com/user-attachments/assets/d0f3ba65-fe17-4262-9bac-1f95c10e149b" />
+
+
 
 
 <img width="602" height="915" alt="Task Flow" src="https://github.com/user-attachments/assets/f5637974-9df1-4dd6-ad21-224078ee6a7e" />
