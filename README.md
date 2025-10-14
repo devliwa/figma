@@ -1,6 +1,6 @@
 # Figma
 
-- [Section 1: Getting Started]()
+- [Section 1: Getting Started](https://github.com/devliwa/Figma/tree/main/Section%201%3A%20Getting%20Started)
 - [Section 2: Wireframing - Low Fidelity]()
 - [Section 3: Type, Color & Icon Introduction]()
 - [Section 4: Pages]()
