@@ -72,10 +72,10 @@ There are 3 easy ways:
 🔹 Naming Frames
 
 Always name your frames for clarity — like:
-- Login Screen
 - Homepage
-- Product Card
-- Header
+- Features
+- Checkout
+- Confirmation
 
 ✅ You can rename by double-clicking the frame name in the Layers panel on the left.
 
@@ -96,3 +96,5 @@ If you select an element and press Shift + A, Figma wraps it in an Auto Layout f
 As your design grows:
 - Use multiple frames to represent multiple screens (e.g., “Home”, “About”, “Contact”)
 - You can then prototype transitions between frames later (to simulate a real app)
+
+<img width="837" height="489" alt="Screenshot 2025-10-13 at 9 57 08 PM" src="https://github.com/user-attachments/assets/ae7e97e3-0b64-4501-9e3e-26bfc3da2f11" />
