@@ -33,6 +33,33 @@ Developers then take those designs and build them with real code.
 
 ### What the difference between UI and UX in Figma
 
+#### 🎨 UI (User Interface) — What it looks like
+
+UI design is all about the visual side how things look and how users interact with them on the screen.
+
+In Figma, UI design includes:
+- Choosing colors, fonts, and icons
+- Designing buttons, forms, menus, cards, etc.
+- Creating layouts (like grids or spacing)
+-Building responsive designs (for mobile, tablet, desktop)
+- Maintaining a consistent style using design systems and components
+
+💡 Think of UI as the “makeup and outfit” of your app — it’s what users see and touch.
+
+
+#### 🧠 UX (User Experience) — How it works and feels
+
+UX design is about the flow, logic, and usability — how the user moves through your app or website and how easy or enjoyable it is to use.
+
+In Figma, UX design includes:
+- Planning user flows (e.g., how a user signs up or checks out)
+- Creating wireframes (simple layouts to plan structure before adding colors)
+- Making interactive prototypes (clickable mockups that simulate the app)
+- Testing navigation and usability
+- Ensuring the design feels intuitive and smooth
+
+💡 Think of UX as the “brain and behavior” of your app — it’s what makes the experience work well.
+
 ### What we are making in this Figma course
 
 ### Class project 01 - Create your own brief
