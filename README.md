@@ -15,4 +15,12 @@
 - [Section 13: Drawing]()
 - [Section 14: Images]()
 - [Section 15: Autolayout's & Constraints]()
-- 
+- [Section 16: Effects]()
+- [Section 17: Components & Instances]()
+- [Section 18: Variants]()
+- [Section 19: Prototyping - Level 2]()
+- [Section 20: Teams & Projects]()
+- [Section 21: Micro Interactions]()
+- [Section 22: Thumbnail Update]()
+- [Section 23: Overview of Figma Sites]()
+- [Section 24: Exporting]()
